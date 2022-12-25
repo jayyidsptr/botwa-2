@@ -4,6 +4,7 @@
   "description": "This is a wabot with OpenAI",
   "main": "wabot.js",
   "scripts": {
+    "start": "npm install",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "PRA",
